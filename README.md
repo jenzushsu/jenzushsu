@@ -10,11 +10,11 @@ My work sits at the intersection of:
 
 ## Selected work
 
+- [Zoom AI Services - Decisions Lab](https://github.com/jenzushsu/zoom-decisions-lab) - Explore when text, an image, or both provide useful evidence for a decision
 - [Meeting SDK React demo](https://github.com/jenzushsu/meetingsdk-react-demo) — a reference implementation for browser-based Zoom Meeting SDK experiences
 - [Programmatic webhook sample app](https://github.com/jenzushsu/zoom-programmatic-webhook-sample-app) — tooling for developer-platform event workflows
 - [Webhook cloud-recording pipeline](https://github.com/jenzushsu/zoom-webhooks-s3-cloud-recordings) — an event-driven path for processing Zoom cloud recordings
 - [Video SDK cloud recordings on GCS](https://github.com/jenzushsu/zoom-videosdk-gcs-cloud-recordings) — Video SDK recording storage and delivery patterns
-- [Meeting SDK Svelte sample](https://github.com/jenzushsu/meetingsdk-svelte-sample) and [Vue.js sample](https://github.com/jenzushsu/meetingsdk-vuejs-sample) — framework-specific integration references
 
 ## Current focus
 
